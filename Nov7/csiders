@@ -1,0 +1,50 @@
+Go to Scratch for Budding Computer Scientists (link on bit.ly/SAHSCS) and answer the
+following questions.
+
+You will need to create a file that is named your username and paste your answers in it.
+After you have completed the questions, submit a pull request in this same repository.
+
+1) Why is there such a "learning curve" when learning a traditional programming
+language such as Java? Before you can begin to solve problems, you must first learn to read and write a new language, even when the task is simple.
+
+
+2) What is learning to program ultimately about? Learning to think logically and more methodically.
+
+
+3) How does Scratch "lower the bar" to programming? It allows budding scientists to focus on problems rather than syntax, and to master programmatic constructs rather than syntax.
+
+
+4) What is a statement in a programming language? It's simply a directive that tells the computer to do something.
+
+
+5) What is a Boolean expression? An expression that can be stated as true or false. 
+
+
+6) What is a conditional statement? A statement that must be true for something to happen.
+
+
+7) What is a loop used for in a programming language? It can induce mutiple executions of a statement.
+
+
+8) What is the difference between a local variable and a global variable? A local variable can be used with one sprite, a global variable can be used by all sprites.
+
+
+9) What is a Boolean variable? A variable that only takes on the value of true or false.
+
+
+10) Which type of blocks in Scratch can be considered threads? Scripts
+
+
+11) Which type of blocks in Scratch can be considered event handlers? Blocks whose labels begin with "when."
+
+
+12) How many sprites are implemented in Oscartime? Nine sprites
+
+
+13) How many threads are used to display the Oscartime game instructions? Three threads   
+
+
+14) How many threads are used by Oscartime's Oscar sprite? Three
+
+
+15) What programming constructs does Scratch NOT support? Methods, parameters, return values, and inheritance and polymorphism.
